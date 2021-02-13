@@ -22,3 +22,4 @@ if __name__ == '__main__':
                 continue
         except:
             pass
+input('press Enter to exit')
